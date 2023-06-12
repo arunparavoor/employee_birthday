@@ -1,6 +1,7 @@
 {
     'name': 'Employees Birthday',
     'version': '1.0',
+    'license': "LGPL-3",
     'category': 'General',    
     'author': 'Arun Reghu Kumar',
     'website':'http://tech4logic.wordpress.com/',
